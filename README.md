@@ -12,6 +12,8 @@ Este é o retrospecto dele com a seleção feminina nas Olimpíadas:
 | Tóquio 2020      | 2º Lugar |
 | Paris 2024     | 3º Lugar |
 
+Para maiores detalhes, leia este [artigo](https://www.linkedin.com/pulse/perfil-estat%C3%ADstico-das-convocadas-olimp%C3%ADcas-na-era-yara-haklf/?trackingId=Ymh5h%2BBUShiN3mp8FQgNVA%3D%3D) no LinkedIn.
+
 -----
 ## TECNOLOGIAS USADAS:
 - Jupyter Notebook: 5.3.0
